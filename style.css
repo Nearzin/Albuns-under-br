@@ -1,0 +1,15 @@
+*{
+    background-color: rgb(184, 187, 193);
+
+}
+body{
+ width:auto ;
+ height: auto
+
+}
+.cards img{
+    margin: 30px;
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+}
